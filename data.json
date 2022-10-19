@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "logoImage": "https://www.google.com/favicon.ico",
+    "title": "Mysterious disaster in the beam",
+    "details": "Mar 12, 2022 · 4m read time",
+    "coverImage": "https://picsum.photos/200/300?random=1",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "logoImage": "https://www.google.com/favicon.ico",
+    "title": "The capital of the canyon",
+    "details": "Apr 05, 2022 · 8m read time",
+    "coverImage": "https://picsum.photos/200/300?random=2",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "logoImage": "https://www.google.com/favicon.ico",
+    "title": "Woololo national anthem",
+    "details": "Oct 25, 2021 · 3m read time",
+    "coverImage": "https://picsum.photos/200/300?random=2",
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "logoImage": "https://www.google.com/favicon.ico",
+    "title": "Confusion is everywhere",
+    "details": "Feb 12, 2022 · 9m read time",
+    "coverImage": "https://picsum.photos/200/300?random=2",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "logoImage": "https://www.google.com/favicon.ico",
+    "title": "The nothing is best practice",
+    "details": "Feb 03, 2022 · 31m read time",
+    "coverImage": "https://picsum.photos/200/300?random=2",
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "logoImage": "https://www.google.com/favicon.ico",
+    "title": "Is google the new home?",
+    "details": "Mar 31, 2022 · 4m read time",
+    "coverImage": "https://picsum.photos/200/300?random=2",
+    "link": "#"
+  },
+  {
+    "id": 7,
+    "logoImage": "https://www.google.com/favicon.ico",
+    "title": "A better way of solving the anxiety and stress is nature",
+    "details": "Jan 14, 2022 · 13m read time",
+    "coverImage": "https://picsum.photos/200/300?random=2",
+    "link": "#"
+  },
+  {
+    "id": 8,
+    "logoImage": "https://www.google.com/favicon.ico",
+    "title": "Change driven emotional intelligence",
+    "details": "Apr 18, 2022 · 6m read time",
+    "coverImage": "https://picsum.photos/200/300?random=2",
+    "link": "#"
+  },
+  {
+    "id": 9,
+    "logoImage": "https://www.google.com/favicon.ico",
+    "title": "Commanding the same officer who command me",
+    "details": "Mar 18, 2021 · 8m read time",
+    "coverImage": "https://picsum.photos/200/300?random=2",
+    "link": "#"
+  },
+  {
+    "id": 10,
+    "logoImage": "https://www.google.com/favicon.ico",
+    "title": "What the hell is happening to me",
+    "details": "Jan 25, 2022 · 7m read time",
+    "coverImage": "https://picsum.photos/200/300?random=2",
+    "link": "#"
+  }
+]
